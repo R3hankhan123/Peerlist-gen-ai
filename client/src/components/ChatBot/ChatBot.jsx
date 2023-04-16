@@ -5,7 +5,7 @@ import { MainContainer, ChatContainer, MessageList, Message, MessageInput, Typin
 import TagFacesIcon from '@mui/icons-material/TagFaces';
 import { IconButton } from '@mui/material';
 
-const API_KEY = "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"
+const API_KEY = "xxxxxxxx"
 
 const ChatBot = () => {
 
