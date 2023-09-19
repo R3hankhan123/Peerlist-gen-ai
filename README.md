@@ -1,4 +1,4 @@
-## Hackbattle: Mobile vs Web.
+## Hackbattle: Peerlist Gen AI Hackathon- Mera Mann
 ## Inspiration
 In college, we have seen ourselves and our colleagues struggle a lot with stress, anxiety and other ailments which they can't explain. There's still a lot of stigma to talk about it. They also have privacy concerns if they want to talk about it. Considering mental health to be really important in today's age, we have come to realise to build a platform where they could talk, express and get adequate healthcare. We believe in a holistic well being therefore our methods are more about make people better at managing their health before it worsens and becomes out of control.
 ## What it does
